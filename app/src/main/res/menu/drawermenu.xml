@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Rate This app"
+          android:id="@+id/rate_thisapp"
+          android:icon="@drawable/inbox"/>
+
+    <item android:title="More Apps"
+          android:id="@+id/more_apps"
+          android:icon="@drawable/sent"/>
+
+
+
+
+
+        <item android:title="Help"
+            android:id="@+id/help_menu"
+             android:icon="@drawable/help"/>
+
+
+
+</menu>

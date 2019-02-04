@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="Admob_Banner">ca-app-pub-2614497637734327/7661991465</string>
+    <string name="Admob_Interstitial">ca-app-pub-2614497637734327/7989402329</string>
+
+
+    <string name="Currencylayer_Key">645a6813dbee463790d99bb8666b2b94</string>
+    <string name="Free_CC_link">http://free.currencyconverterapi.com/api/v3/convert?q=</string>
+
+    <string name="playstore_developer_name">androMob</string>
+
+</resources>
